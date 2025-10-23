@@ -30,7 +30,7 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/andré-arthur-toledo-42a653371" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-   <img src="https://visitor-badge.laobi.icu/badge?page_id=ArTyy022.ArTyy022&left_color=darkblue&right_color=darkgreen&left_text=Outsiders"  />
+   <img src="https://visitor-badge.laobi.icu/badge?page_id=Arthur-018.Arthur-018&left_color=darkblue&right_color=darkgreen&left_text=Outsiders"  />
   </a>
 </div>
 
@@ -49,7 +49,7 @@
 
 
 </div style="display: inline_block"><br>
- <img align="center" alt="Artyy-chris"  height="500" width=2500" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHRteXV2NW91NXFxM2M3eDJoZXdic21qbHE2c2ZzbnI1ODByaTF0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pOmtxQVSJxhZSQcz48/giphy.gif">
+ <img align="center" alt="Arthur-chris"  height="500" width=2500" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHRteXV2NW91NXFxM2M3eDJoZXdic21qbHE2c2ZzbnI1ODByaTF0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pOmtxQVSJxhZSQcz48/giphy.gif">
 </div>
 
 
@@ -60,7 +60,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arthur-018/Arthur-018/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arthur-018/Arthur-018/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ArTyy022/Arthur-018/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Arthur-018/Arthur-018/output/pacman-contribution-graph.svg">
 </picture>
 
 
