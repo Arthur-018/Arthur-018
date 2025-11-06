@@ -7,6 +7,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-018&layout=compact&langs_count=16&theme=shadow_red"/>
 </div>
 
+
 - 🖥️ Atualmente sou Jovem Aprendiz de Desenvolvimento Full Stack no Grupo Zaffari  
 - 💭 Estudando lógica de programação, JS, JAVA e DART
 - 
