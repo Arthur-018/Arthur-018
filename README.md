@@ -8,6 +8,7 @@
 </div>
 
 
+
 - 🖥️ Atualmente sou Jovem Aprendiz de Desenvolvimento Full Stack no Grupo Zaffari  
 - 💭 Estudando lógica de programação, JS, JAVA e DART
 - 
