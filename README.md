@@ -46,9 +46,7 @@
 
 
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Arthur-chris" height="500" width="2500" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHRteXV2NW91NXFxM2M3eDJoZXdic21qbHE2c2ZzbnI1ODByaTF0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pOmtxQVSJxhZSQcz48/giphy.gif">
-</div>
+
 
 ##
 
