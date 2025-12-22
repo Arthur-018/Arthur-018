@@ -93,10 +93,11 @@ Sou motivado por desafios, colaboração em equipe e pelo desenvolvimento de sol
 <br><br>
 
 <div align="center">
-  <img 
-    src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif"
+  <img
+    src="https://i.redd.it/5l2p90j7gj3b1.gif"
     width="500"
-    alt="Anime bedroom with bookshelf and study atmosphere"
+    alt="Lofi girl studying with rain outside - anime style"
+    style="border: 4px solid #2d2d2d; border-radius: 12px;"
   />
 </div>
 
