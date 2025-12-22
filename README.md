@@ -4,6 +4,12 @@ Desenvolvedor Backend em formação, com foco em **Java e Spring Framework**.
 Atualmente atuo como **Jovem Aprendiz em Desenvolvimento Full Stack no Grupo Zaffari**, aplicando na prática conceitos de **arquitetura backend, APIs REST e boas práticas de software**.  
 Sou estudante de **Análise e Desenvolvimento de Sistemas (Unisinos)** e acredito no aprendizado contínuo, na prática diária e no trabalho em equipe como base para evolução profissional.
 
+- 🖥️ **Jovem Aprendiz em Desenvolvimento Full Stack** no **Grupo Zaffari**  
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** – Unisinos  
+- 💡 Foco em **Backend**, arquitetura de sistemas e evolução contínua  
+- 🚀 Tecnologias em prática: **Java, Spring Framework, APIs REST, JSON**  
+- 🔧 Versionamento e colaboração com **Git & GitHub**
+- 
 <br><br>
 
 <div align="center">
@@ -39,13 +45,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (Unisinos)** e acredit
 
 <br>
 
-- 🖥️ **Jovem Aprendiz em Desenvolvimento Full Stack** no **Grupo Zaffari**  
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** – Unisinos  
-- 💡 Foco em **Backend**, arquitetura de sistemas e evolução contínua  
-- 🚀 Tecnologias em prática: **Java, Spring Framework, APIs REST, JSON**  
-- 🔧 Versionamento e colaboração com **Git & GitHub**  
 
-<br>
 
 ---
 
