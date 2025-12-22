@@ -2,7 +2,7 @@
 
 <br>
 
-<ul style="list-style-position: inside; padding-left: 0;">
+<ul style="list-style-position: inside;">
   <li>🖥️ <strong>Jovem Aprendiz em Desenvolvimento Full Stack</strong> no <strong>Grupo Zaffari</strong></li>
   <li>🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> – Unisinos</li>
   <li>💡 Foco em <strong>Backend</strong>, arquitetura de sistemas e evolução contínua</li>
@@ -14,26 +14,24 @@
 
 <div align="center">
 
-  <!-- Linha superior -->
+  <!-- Linha de cima -->
   <div style="display: flex; justify-content: center; align-items: center; gap: 36px;">
     <a href="https://github.com/Arthur-018">
       <img
         height="180em"
         src="https://github-readme-stats.vercel.app/api?username=Arthur-018&show_icons=true&theme=shadow_red&include_all_commits=true&count_private=true"
-        alt="GitHub Stats"
       />
     </a>
 
     <img
       height="180em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-018&layout=compact&langs_count=16&theme=shadow_red"
-      alt="Top Languages"
     />
   </div>
 
   <br><br>
 
-  <!-- Linha inferior -->
+  <!-- Linha de baixo -->
   <div style="display: flex; justify-content: center; align-items: center; gap: 36px;">
     <img
       src="https://streak-stats.demolab.com?user=Arthur-018&locale=en&mode=daily&theme=shadow_red&hide_border=false&border_radius=5"
@@ -49,8 +47,6 @@
   </div>
 
 </div>
-
-<br><br>
 
 ## 📌 Sobre mim
 
