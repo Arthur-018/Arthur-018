@@ -20,6 +20,19 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (Unisinos)** e acredit
   </a>
 </div>
 
+<div align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=Arthur-018&locale=en&mode=daily&theme=shadow_red&hide_border=false&border_radius=5" 
+    height="150" 
+    alt="GitHub Streak"
+  />
+  <img 
+    src="https://github-profile-trophy.vercel.app?username=Arthur-018&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8" 
+    height="150" 
+    alt="GitHub Trophies"
+  />
+</div>
+
 <br><br>
 
 ---
@@ -57,20 +70,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (Unisinos)** e acredit
 
 <br><br>
 
-<div align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=Arthur-018&locale=en&mode=daily&theme=shadow_red&hide_border=false&border_radius=5" 
-    height="150" 
-    alt="GitHub Streak"
-  />
-  <img 
-    src="https://github-profile-trophy.vercel.app?username=Arthur-018&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8" 
-    height="150" 
-    alt="GitHub Trophies"
-  />
-</div>
 
-<br><br>
 
 ---
 
