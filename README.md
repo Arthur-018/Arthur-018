@@ -23,7 +23,6 @@
         alt="GitHub Stats"
       />
     </a>
-
     <img
       height="180em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-018&layout=compact&langs_count=16&theme=shadow_red"
@@ -40,7 +39,6 @@
       height="150"
       alt="GitHub Streak"
     />
-
     <img
       src="https://github-profile-trophy.vercel.app?username=Arthur-018&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8"
       height="150"
