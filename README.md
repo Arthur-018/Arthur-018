@@ -18,7 +18,7 @@
 
 <p>
   Desenvolvedor em início de carreira com foco em <strong>backend</strong>, busco constantemente aprimorar meus conhecimentos em
-  <strong>Java, Spring Framework e arquitetura de software</strong>.<br>
+  <strong>Java, Spring Framework e arquitetura de software</strong>.<br> <br>
   Atualmente atuo como <strong>Jovem Aprendiz em Desenvolvimento Full Stack no Grupo Zaffari</strong>, aplicando na prática conceitos de
   <strong>arquitetura backend, APIs REST e boas práticas de software</strong>.<br>
 
