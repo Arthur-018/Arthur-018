@@ -14,7 +14,7 @@
 
 <div align="center">
 
-  <div style="display: flex; justify-content: center; align-items: center; gap: 36px;">
+  <div style="display: flex; justify-content: center; align-items: center; gap: 36px; margin-bottom: 8px;">
     <a href="https://github.com/Arthur-018">
       <img
         height="180em"
@@ -24,15 +24,16 @@
     </a>
   </div>
 
-  <br><br>
-
-  <div style="display: flex; justify-content: center; align-items: center; gap: 36px;">
+  <div style="display: flex; justify-content: center; align-items: center; gap: 36px; margin-top: 0;">
     <img
       src="https://streak-stats.demolab.com?user=Arthur-018&locale=en&mode=daily&theme=shadow_red&hide_border=false&border_radius=5"
       height="150"
       alt="GitHub Streak"
     />
   </div>
+
+</div>
+
 
 </div>
 
