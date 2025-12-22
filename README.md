@@ -74,29 +74,20 @@
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="JavaScript" />
-  <img width="24" />
+  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="Java" />
-  <img width="24" />
+  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="React Native" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="Git" />
 </div>
 
-<br><br>
+<br>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/andré-arthur-toledo-42a653371" target="_blank">
-    <img
-      src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge"
-      height="25"
-      alt="LinkedIn"
-    />
-    <img
-      src="https://visitor-badge.laobi.icu/badge?page_id=Arthur-018.Arthur-018&left_color=darkblue&right_color=darkgreen&left_text=Outsiders"
-      alt="Visitor badge"
-    />
-  </a>
-</div>
+---
 
-<br><br>
+<br>
+
 
 ---
 
