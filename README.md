@@ -30,34 +30,39 @@
 <br><br>
 
 <div align="center">
-  <a href="https://github.com/Arthur-018">
-    <img
-      height="180em"
-      src="https://github-readme-stats.vercel.app/api?username=Arthur-018&show_icons=true&theme=shadow_red&include_all_commits=true&count_private=true"
-      style="margin-right: 36px;"
-    />
+
+  <!-- Linha de cima -->
+  <div style="display: flex; justify-content: center; align-items: center; gap: 36px;">
+    <a href="https://github.com/Arthur-018">
+      <img
+        height="180em"
+        src="https://github-readme-stats.vercel.app/api?username=Arthur-018&show_icons=true&theme=shadow_red&include_all_commits=true&count_private=true"
+      />
+    </a>
     <img
       height="180em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-018&layout=compact&langs_count=16&theme=shadow_red"
     />
-  </a>
+  </div>
+
+  <br><br>
+
+  <!-- Linha de baixo (alinhada com a de cima) -->
+  <div style="display: flex; justify-content: center; align-items: center; gap: 36px;">
+    <img
+      src="https://streak-stats.demolab.com?user=Arthur-018&locale=en&mode=daily&theme=shadow_red&hide_border=false&border_radius=5"
+      height="150"
+      alt="GitHub Streak"
+    />
+    <img
+      src="https://github-profile-trophy.vercel.app?username=Arthur-018&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8"
+      height="150"
+      alt="GitHub Trophies"
+    />
+  </div>
+
 </div>
 
-<br><br>
-
-<div align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Arthur-018&locale=en&mode=daily&theme=shadow_red&hide_border=false&border_radius=5"
-    height="150"
-    alt="GitHub Streak"
-    style="margin-right: 36px;"
-  />
-  <img
-    src="https://github-profile-trophy.vercel.app?username=Arthur-018&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8"
-    height="150"
-    alt="GitHub Trophies"
-  />
-</div>
 
 <br><br>
 
