@@ -88,11 +88,6 @@ Sou motivado por desafios, colaboração em equipe e pelo desenvolvimento de sol
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arthur-018/Arthur-018/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arthur-018/Arthur-018/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Arthur-018/Arthur-018/output/pacman-contribution-graph.svg">
-</picture>
 
 <br><br>
 
@@ -115,3 +110,11 @@ Sou motivado por desafios, colaboração em equipe e pelo desenvolvimento de sol
 </p>
 
 <br>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arthur-018/Arthur-018/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arthur-018/Arthur-018/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Arthur-018/Arthur-018/output/pacman-contribution-graph.svg">
+</picture>
+
