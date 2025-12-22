@@ -7,6 +7,16 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (Unisinos)** e acredit
 <br><br>
 
 <div align="center">
+  <img 
+    src="https://images.unsplash.com/photo-1601582589907-f92af5ed9db1?auto=format&fit=crop&w=1200&q=80"
+    width="800"
+    alt="Anime style room with books and cozy atmosphere"
+  />
+</div>
+
+<br><br>
+
+<div align="center">
   <a href="https://github.com/Arthur-018">
     <img 
       height="180em" 
@@ -88,10 +98,6 @@ Sou motivado por desafios, colaboração em equipe e pelo desenvolvimento de sol
 
 <br>
 
-
-
-<br><br>
-
 <div align="center">
   <img 
     src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" 
@@ -108,10 +114,9 @@ Sou motivado por desafios, colaboração em equipe e pelo desenvolvimento de sol
 
 <br>
 
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arthur-018/Arthur-018/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arthur-018/Arthur-018/output/pacman-contribution-graph.svg">
   <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Arthur-018/Arthur-018/output/pacman-contribution-graph.svg">
 </picture>
-
+****
