@@ -23,7 +23,6 @@
         alt="GitHub Stats"
       />
     </a>
-
     <img
       height="180em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-018&layout=compact&langs_count=16&theme=shadow_red"
@@ -31,10 +30,8 @@
     />
   </div>
 
-  <!-- Espaçamento reduzido e controlado -->
   <div style="height: 12px;"></div>
 
-  <!-- Linha de baixo (centralizada abaixo da de cima) -->
   <div style="display: flex; justify-content: center; align-items: center;">
     <img
       src="https://streak-stats.demolab.com?user=Arthur-018&locale=en&mode=daily&theme=shadow_red&hide_border=false&border_radius=5"
