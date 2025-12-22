@@ -89,7 +89,7 @@
 
 <div align="center">
   <img
-    src="https://media.tenor.com/zERX0LKvJn4AAAAC/lofi-browsing-studying-anime.gif"
+    src="https://raw.githubusercontent.com/Arthur-018/Arthur-018/main/assets/imagem-estudos.gif"
     width="500"
     alt="Lofi browsing studying anime"
   />
