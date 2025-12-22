@@ -44,6 +44,13 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (Unisinos)** e acredit
 
 ---
 
+
+
+
+
+
+---
+
 ## 🛠️ Tecnologias & Ferramentas
 
 <br>
