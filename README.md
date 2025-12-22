@@ -2,7 +2,7 @@
 
 <br>
 
-<ul style="list-style-position: inside;">
+<ul style="list-style-position: inside; padding-left: 0;">
   <li>🖥️ <strong>Jovem Aprendiz em Desenvolvimento Full Stack</strong> no <strong>Grupo Zaffari</strong></li>
   <li>🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> – Unisinos</li>
   <li>💡 Foco em <strong>Backend</strong>, arquitetura de sistemas e evolução contínua</li>
@@ -10,36 +10,37 @@
   <li>🔧 Versionamento e colaboração com <strong>Git & GitHub</strong></li>
 </ul>
 
-<br>
-
-
 <br><br>
 
 <div align="center">
 
-  <!-- Linha de cima -->
+  <!-- Linha superior -->
   <div style="display: flex; justify-content: center; align-items: center; gap: 36px;">
     <a href="https://github.com/Arthur-018">
       <img
         height="180em"
         src="https://github-readme-stats.vercel.app/api?username=Arthur-018&show_icons=true&theme=shadow_red&include_all_commits=true&count_private=true"
+        alt="GitHub Stats"
       />
     </a>
+
     <img
       height="180em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-018&layout=compact&langs_count=16&theme=shadow_red"
+      alt="Top Languages"
     />
   </div>
 
   <br><br>
 
-  <!-- Linha de baixo -->
+  <!-- Linha inferior -->
   <div style="display: flex; justify-content: center; align-items: center; gap: 36px;">
     <img
       src="https://streak-stats.demolab.com?user=Arthur-018&locale=en&mode=daily&theme=shadow_red&hide_border=false&border_radius=5"
       height="150"
       alt="GitHub Streak"
     />
+
     <img
       src="https://github-profile-trophy.vercel.app?username=Arthur-018&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8"
       height="150"
@@ -48,6 +49,8 @@
   </div>
 
 </div>
+
+<br><br>
 
 ## 📌 Sobre mim
 
@@ -63,7 +66,6 @@
   na prática diária e no trabalho em equipe como base para evolução profissional.<br>
   Sou motivado por desafios, colaboração em equipe e pelo desenvolvimento de soluções eficientes e escaláveis.
 </p>
-
 
 <br><br>
 
@@ -106,9 +108,18 @@
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arthur-018/Arthur-018/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arthur-018/Arthur-018/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Arthur-018/Arthur-018/output/pacman-contribution-graph.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Arthur-018/Arthur-018/output/pacman-contribution-graph-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Arthur-018/Arthur-018/output/pacman-contribution-graph.svg"
+  />
+  <img
+    alt="Pacman contribution graph"
+    src="https://raw.githubusercontent.com/Arthur-018/Arthur-018/output/pacman-contribution-graph.svg"
+  />
 </picture>
 
 <br>
