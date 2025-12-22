@@ -39,12 +39,7 @@
       height="150"
       alt="GitHub Streak"
     />
-    <img
-      src="https://github-profile-trophy.vercel.app?username=Arthur-018&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8"
-      height="150"
-      alt="GitHub Trophies"
-    />
-  </div>
+
 
 </div>
 
