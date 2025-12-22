@@ -44,11 +44,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (Unisinos)** e acredit
 
 
 
-
-
-
-
-
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
@@ -94,12 +89,7 @@ Sou motivado por desafios, colaboração em equipe e pelo desenvolvimento de sol
 
 <br><br>
 
-<div align="center">
-  <img
-    src="https://c.tenor.com/zERX0LKvJn4AAAAC/lofi-browsing-studying-anime.gif"
-    width="500"
-    alt="Lofi anime browsing and studying"
-  />
+<div class="tenor-gif-embed" data-postid="17529094" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/lofi-browsing-studying-anime-gif-17529094">Lofi Browsing GIF</a>from <a href="https://tenor.com/search/lofi-gifs">Lofi GIFs</a>
 </div>
 
 <br>
