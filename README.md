@@ -10,6 +10,18 @@
   <li>🔧 Versionamento e colaboração com <strong>Git & GitHub</strong></li>
 </ul>
 
+## 📌 Sobre mim
+
+<br>
+<p>
+Desenvolvedor em início de carreira com foco em **backend**, busco constantemente aprimorar meus conhecimentos em **Java, Spring Framework e arquitetura de software**.<br>
+ Atualmente atuo como <strong>Jovem Aprendiz em Desenvolvimento Full Stack no Grupo Zaffari</strong>, aplicando na prática conceitos de
+<strong>arquitetura backend, APIs REST e boas práticas de software</strong>.<br>
+ Sou estudante de <strong>Análise e Desenvolvimento de Sistemas (Unisinos)</strong> e acredito no aprendizado contínuo,
+ na prática diária e no trabalho em equipe como base para evolução profissional.
+  Sou motivado por desafios, colaboração em equipe e pelo desenvolvimento de soluções eficientes e escaláveis.
+</p> 
+
 <br><br>
 
 <div align="center">
@@ -72,19 +84,7 @@
 
 
 
----
 
-## 📌 Sobre mim
-
-<br>
-<p>
-Desenvolvedor em início de carreira com foco em **backend**, busco constantemente aprimorar meus conhecimentos em **Java, Spring Framework e arquitetura de software**.<br>
- Atualmente atuo como <strong>Jovem Aprendiz em Desenvolvimento Full Stack no Grupo Zaffari</strong>, aplicando na prática conceitos de
-<strong>arquitetura backend, APIs REST e boas práticas de software</strong>.<br>
- Sou estudante de <strong>Análise e Desenvolvimento de Sistemas (Unisinos)</strong> e acredito no aprendizado contínuo,
- na prática diária e no trabalho em equipe como base para evolução profissional.
-  Sou motivado por desafios, colaboração em equipe e pelo desenvolvimento de soluções eficientes e escaláveis.
-</p> 
 
 
 <br><br>
