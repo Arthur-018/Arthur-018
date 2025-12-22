@@ -89,11 +89,12 @@
 
 <div align="center">
   <img
-    src="https://c.tenor.com/zERX0LKvJn4AAAAC/lofi-browsing-studying-anime.gif"
+    src="https://media.tenor.com/zERX0LKvJn4AAAAC/lofi-browsing-studying-anime.gif"
     width="500"
     alt="Lofi browsing studying anime"
   />
 </div>
+
 
 <br>
 
