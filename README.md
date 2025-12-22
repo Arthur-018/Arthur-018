@@ -94,9 +94,9 @@ Sou motivado por desafios, colaboração em equipe e pelo desenvolvimento de sol
 
 <div align="center">
   <img 
-    src="https://images.unsplash.com/photo-1616627988501-2d07f657668b?auto=format&fit=crop&w=900&q=80"
+    src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif"
     width="500"
-    alt="Anime style bedroom with books on a bookshelf"
+    alt="Anime bedroom with bookshelf and study atmosphere"
   />
 </div>
 
