@@ -2,23 +2,6 @@
 
 <br>
 
-## 📌 Sobre mim
-
-<br>
-
-<p align="justify">
-  Desenvolvedor em início de carreira com foco em <strong>backend</strong>, busco constantemente aprimorar meus conhecimentos em
-  <strong>Java, Spring Framework e arquitetura de software</strong>.<br>
-  Atualmente atuo como <strong>Jovem Aprendiz em Desenvolvimento Full Stack no Grupo Zaffari</strong>, aplicando na prática conceitos de
-  <strong>arquitetura backend, APIs REST e boas práticas de software</strong>.<br><br>
-
-  Sou estudante de <strong>Análise e Desenvolvimento de Sistemas (Unisinos)</strong> e acredito no aprendizado contínuo,
-  na prática diária e no trabalho em equipe como base para evolução profissional.<br>
-  Sou motivado por desafios, colaboração em equipe e pelo desenvolvimento de soluções eficientes e escaláveis.
-</p>
-
-<br>
-
 <ul style="list-style-position: inside;">
   <li>🖥️ <strong>Jovem Aprendiz em Desenvolvimento Full Stack</strong> no <strong>Grupo Zaffari</strong></li>
   <li>🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> – Unisinos</li>
@@ -26,6 +9,9 @@
   <li>🚀 Tecnologias em prática: <strong>Java, Spring Framework, APIs REST, JSON</strong></li>
   <li>🔧 Versionamento e colaboração com <strong>Git & GitHub</strong></li>
 </ul>
+
+<br>
+
 
 <br><br>
 
@@ -62,6 +48,22 @@
   </div>
 
 </div>
+
+## 📌 Sobre mim
+
+<br>
+
+<p align="justify">
+  Desenvolvedor em início de carreira com foco em <strong>backend</strong>, busco constantemente aprimorar meus conhecimentos em
+  <strong>Java, Spring Framework e arquitetura de software</strong>.<br>
+  Atualmente atuo como <strong>Jovem Aprendiz em Desenvolvimento Full Stack no Grupo Zaffari</strong>, aplicando na prática conceitos de
+  <strong>arquitetura backend, APIs REST e boas práticas de software</strong>.<br><br>
+
+  Sou estudante de <strong>Análise e Desenvolvimento de Sistemas (Unisinos)</strong> e acredito no aprendizado contínuo,
+  na prática diária e no trabalho em equipe como base para evolução profissional.<br>
+  Sou motivado por desafios, colaboração em equipe e pelo desenvolvimento de soluções eficientes e escaláveis.
+</p>
+
 
 <br><br>
 
