@@ -2,16 +2,6 @@
 
 <br>
 
-<ul style="list-style-position: inside;">
-  <li>🖥️ <strong>Jovem Aprendiz em Desenvolvimento Full Stack</strong> no <strong>Grupo Zaffari</strong></li>
-  <li>🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> – Unisinos</li>
-  <li>💡 Foco em <strong>Backend</strong>, arquitetura de sistemas e evolução contínua</li>
-  <li>🚀 Tecnologias em prática: <strong>Java, Spring Framework, APIs REST, JSON</strong></li>
-  <li>🔧 Versionamento e colaboração com <strong>Git & GitHub</strong></li>
-</ul>
-
-<br>
-
 ## 📌 Sobre mim
 
 <br>
@@ -27,6 +17,15 @@
   Sou motivado por desafios, colaboração em equipe e pelo desenvolvimento de soluções eficientes e escaláveis.
 </p>
 
+<br>
+
+<ul style="list-style-position: inside;">
+  <li>🖥️ <strong>Jovem Aprendiz em Desenvolvimento Full Stack</strong> no <strong>Grupo Zaffari</strong></li>
+  <li>🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> – Unisinos</li>
+  <li>💡 Foco em <strong>Backend</strong>, arquitetura de sistemas e evolução contínua</li>
+  <li>🚀 Tecnologias em prática: <strong>Java, Spring Framework, APIs REST, JSON</strong></li>
+  <li>🔧 Versionamento e colaboração com <strong>Git & GitHub</strong></li>
+</ul>
 <br><br>
 
 <div align="center">
