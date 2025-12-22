@@ -14,7 +14,6 @@
 
 <div align="center">
 
-  <!-- Linha de cima -->
   <div style="display: flex; justify-content: center; align-items: center; gap: 36px;">
     <a href="https://github.com/Arthur-018">
       <img
@@ -32,7 +31,6 @@
 
   <div style="height: 16px;"></div>
 
-  <!-- Linha de baixo -->
   <div style="display: flex; justify-content: center; align-items: center;">
     <img
       src="https://streak-stats.demolab.com?user=Arthur-018&locale=en&mode=daily&theme=shadow_red&hide_border=false&border_radius=5"
