@@ -89,9 +89,6 @@ Sou motivado por desafios, colaboração em equipe e pelo desenvolvimento de sol
 <br>
 
 
-<br><br>
-
----
 
 <br><br>
 
