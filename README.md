@@ -47,7 +47,7 @@
 
   <br><br>
 
-  <!-- Linha de baixo (alinhada com a de cima) -->
+  <!-- Linha de baixo -->
   <div style="display: flex; justify-content: center; align-items: center; gap: 36px;">
     <img
       src="https://streak-stats.demolab.com?user=Arthur-018&locale=en&mode=daily&theme=shadow_red&hide_border=false&border_radius=5"
@@ -62,7 +62,6 @@
   </div>
 
 </div>
-
 
 <br><br>
 
@@ -87,11 +86,6 @@
 ---
 
 <br>
-
-
----
-
-<br><br>
 
 <div align="center">
   <img
