@@ -94,9 +94,9 @@ Sou motivado por desafios, colaboração em equipe e pelo desenvolvimento de sol
 
 <div align="center">
   <img
-    src="https://imgur.com/a/Z7vjRLi"
+    src="https://c.tenor.com/zERX0LKvJn4AAAAC/lofi-browsing-studying-anime.gif"
     width="500"
-    alt="Anime style cozy bedroom with bookshelf"
+    alt="Lo-fi anime studying/browsing GIF"
   />
 </div>
 
