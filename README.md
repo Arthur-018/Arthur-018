@@ -2,7 +2,7 @@
 
 <br>
 
-<ul style="list-style-position: inside;">
+<ul style="list-style-position: inside; padding-left: 0;">
   <li>🖥️ <strong>Jovem Aprendiz em Desenvolvimento Full Stack</strong> no <strong>Grupo Zaffari</strong></li>
   <li>🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> – Unisinos</li>
   <li>💡 Foco em <strong>Backend</strong>, arquitetura de sistemas e evolução contínua</li>
@@ -10,7 +10,7 @@
   <li>🔧 Versionamento e colaboração com <strong>Git & GitHub</strong></li>
 </ul>
 
-<br><br>
+<br>
 
 <div align="center">
 
@@ -23,6 +23,7 @@
         alt="GitHub Stats"
       />
     </a>
+
     <img
       height="180em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-018&layout=compact&langs_count=16&theme=shadow_red"
@@ -30,8 +31,9 @@
     />
   </div>
 
-  <div style="height: 12px;"></div>
+  <div style="height: 16px;"></div>
 
+  <!-- Linha de baixo -->
   <div style="display: flex; justify-content: center; align-items: center;">
     <img
       src="https://streak-stats.demolab.com?user=Arthur-018&locale=en&mode=daily&theme=shadow_red&hide_border=false&border_radius=5"
@@ -41,6 +43,9 @@
   </div>
 
 </div>
+
+<br>
+
 ## 📌 Sobre mim
 
 <br>
@@ -56,7 +61,7 @@
   Sou motivado por desafios, colaboração em equipe e pelo desenvolvimento de soluções eficientes e escaláveis.
 </p>
 
-<br><br>
+<br>
 
 ---
 
@@ -87,7 +92,6 @@
     alt="Lofi browsing studying anime"
   />
 </div>
-
 
 <br>
 
