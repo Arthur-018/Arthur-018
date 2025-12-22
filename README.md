@@ -1,44 +1,53 @@
 ## Olá! Eu sou o Arthur 👋  
 
-Desenvolvedor Backend em formação, com foco em **Java e Spring Framework**.  
-Atualmente atuo como **Jovem Aprendiz em Desenvolvimento Full Stack no Grupo Zaffari**, aplicando na prática conceitos de **arquitetura backend, APIs REST e boas práticas de software**.  
-Sou estudante de **Análise e Desenvolvimento de Sistemas (Unisinos)** e acredito no aprendizado contínuo, na prática diária e no trabalho em equipe como base para evolução profissional.
+<p>
+  Desenvolvedor Backend em formação, com foco em <strong>Java e Spring Framework</strong>.<br>
+  Atualmente atuo como <strong>Jovem Aprendiz em Desenvolvimento Full Stack no Grupo Zaffari</strong>, aplicando na prática conceitos de
+  <strong>arquitetura backend, APIs REST e boas práticas de software</strong>.<br>
+  Sou estudante de <strong>Análise e Desenvolvimento de Sistemas (Unisinos)</strong> e acredito no aprendizado contínuo,
+  na prática diária e no trabalho em equipe como base para evolução profissional.
+</p>
 
-- 🖥️ **Jovem Aprendiz em Desenvolvimento Full Stack** no **Grupo Zaffari**  
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** – Unisinos  
-- 💡 Foco em **Backend**, arquitetura de sistemas e evolução contínua  
-- 🚀 Tecnologias em prática: **Java, Spring Framework, APIs REST, JSON**  
-- 🔧 Versionamento e colaboração com **Git & GitHub**
-- 
+<br>
+
+<ul>
+  <li>🖥️ <strong>Jovem Aprendiz em Desenvolvimento Full Stack</strong> no <strong>Grupo Zaffari</strong></li>
+  <li>🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> – Unisinos</li>
+  <li>💡 Foco em <strong>Backend</strong>, arquitetura de sistemas e evolução contínua</li>
+  <li>🚀 Tecnologias em prática: <strong>Java, Spring Framework, APIs REST, JSON</strong></li>
+  <li>🔧 Versionamento e colaboração com <strong>Git & GitHub</strong></li>
+</ul>
+
 <br><br>
 
 <div align="center">
   <a href="https://github.com/Arthur-018">
-    <img 
-      height="180em" 
+    <img
+      height="180em"
       src="https://github-readme-stats.vercel.app/api?username=Arthur-018&show_icons=true&theme=shadow_red&include_all_commits=true&count_private=true"
-      style="margin-right: 20px;"
+      style="margin-right: 24px;"
     />
-    <img 
-      height="180em" 
+    <img
+      height="180em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-018&layout=compact&langs_count=16&theme=shadow_red"
     />
   </a>
 </div>
 
+<br><br>
+
 <div align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=Arthur-018&locale=en&mode=daily&theme=shadow_red&hide_border=false&border_radius=5" 
-    height="150" 
+  <img
+    src="https://streak-stats.demolab.com?user=Arthur-018&locale=en&mode=daily&theme=shadow_red&hide_border=false&border_radius=5"
+    height="150"
     alt="GitHub Streak"
   />
-  <img 
-    src="https://github-profile-trophy.vercel.app?username=Arthur-018&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8" 
-    height="150" 
+  <img
+    src="https://github-profile-trophy.vercel.app?username=Arthur-018&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8"
+    height="150"
     alt="GitHub Trophies"
   />
 </div>
-
 
 
 
