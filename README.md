@@ -97,7 +97,6 @@ Sou motivado por desafios, colaboração em equipe e pelo desenvolvimento de sol
     src="https://i.redd.it/5l2p90j7gj3b1.gif"
     width="500"
     alt="Lofi girl studying with rain outside - anime style"
-    style="border: 4px solid #2d2d2d; border-radius: 12px;"
   />
 </div>
 
