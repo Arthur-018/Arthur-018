@@ -24,7 +24,6 @@
 
   Sou estudante de <strong>Análise e Desenvolvimento de Sistemas (Unisinos)</strong> e acredito no aprendizado contínuo,
   na prática diária e no trabalho em equipe como base para evolução profissional.<br>
-
   Sou motivado por desafios, colaboração em equipe e pelo desenvolvimento de soluções eficientes e escaláveis.
 </p>
 
