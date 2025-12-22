@@ -1,13 +1,5 @@
 ## Olá! Eu sou o Arthur 👋  
 
-<p>
-  Desenvolvedor Backend em formação, com foco em <strong>Java e Spring Framework</strong>.<br>
-  Atualmente atuo como <strong>Jovem Aprendiz em Desenvolvimento Full Stack no Grupo Zaffari</strong>, aplicando na prática conceitos de
-  <strong>arquitetura backend, APIs REST e boas práticas de software</strong>.<br>
-  Sou estudante de <strong>Análise e Desenvolvimento de Sistemas (Unisinos)</strong> e acredito no aprendizado contínuo,
-  na prática diária e no trabalho em equipe como base para evolução profissional.
-</p>
-
 <br>
 
 <ul>
@@ -85,10 +77,15 @@
 ## 📌 Sobre mim
 
 <br>
+<p>
+Desenvolvedor em início de carreira com foco em **backend**, busco constantemente aprimorar meus conhecimentos em **Java, Spring Framework e arquitetura de software**.<br>
+ Atualmente atuo como <strong>Jovem Aprendiz em Desenvolvimento Full Stack no Grupo Zaffari</strong>, aplicando na prática conceitos de
+<strong>arquitetura backend, APIs REST e boas práticas de software</strong>.<br>
+ Sou estudante de <strong>Análise e Desenvolvimento de Sistemas (Unisinos)</strong> e acredito no aprendizado contínuo,
+ na prática diária e no trabalho em equipe como base para evolução profissional.
+  Sou motivado por desafios, colaboração em equipe e pelo desenvolvimento de soluções eficientes e escaláveis.
+</p> 
 
-Desenvolvedor em início de carreira com foco em **backend**, busco constantemente aprimorar meus conhecimentos em **Java, Spring Framework e arquitetura de software**.  
-Tenho experiência prática com **lógica de programação, APIs REST, manipulação de dados JSON e versionamento de código**.  
-Sou motivado por desafios, colaboração em equipe e pelo desenvolvimento de soluções eficientes e escaláveis.
 
 <br><br>
 
