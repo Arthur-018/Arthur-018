@@ -2,6 +2,7 @@
 
 <br>
 
+
 <ul style="list-style-position: inside; padding-left: 0;">
   <li>🖥️ <strong>Jovem Aprendiz em Desenvolvimento Full Stack</strong> no <strong>Grupo Zaffari</strong></li>
   <li>🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> – Unisinos</li>
@@ -26,7 +27,7 @@
       height="180em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-018&layout=compact&langs_count=16&theme=shadow_red"
       alt="Top Languages"
-    />
+      />
   </div>
 
   <div style="height: 16px;"></div>
