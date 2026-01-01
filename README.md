@@ -3,6 +3,7 @@
 <br>
 
 
+
 <ul style="list-style-position: inside; padding-left: 0;">
   <li>🖥️ <strong>Jovem Aprendiz em Desenvolvimento Full Stack</strong> no <strong>Grupo Zaffari</strong></li>
   <li>🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> – Unisinos</li>
