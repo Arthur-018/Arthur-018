@@ -60,6 +60,7 @@
   Sou motivado por desafios, colaboração em equipe e pelo desenvolvimento de soluções eficientes e escaláveis.
 </p>
 
+
 <br>
 
 ---
