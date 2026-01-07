@@ -15,13 +15,13 @@
 
 <div align="center">
   <a href="https://github.com/Arthur-018">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arthur-018&show_icons=true&theme=shadow_red&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Arthur-018&show_icons=true&theme=shadow_red&include_all_commits=true&count_private=true" height="180" />
   </a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-018&layout=compact&langs_count=16&theme=shadow_red" alt="Top Languages" />
-  
-  <br><br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-018&layout=compact&langs_count=16&theme=shadow_red" height="180" />
 
-  <img src="https://streak-stats.demolab.com?user=Arthur-018&locale=en&mode=daily&theme=shadow_red&hide_border=false&border_radius=5" height="150" alt="GitHub Streak" />
+  <br/><br/>
+
+  <img src="https://streak-stats.demolab.com?user=Arthur-018&locale=en&mode=daily&theme=shadow_red&hide_border=false&border_radius=5" height="150" />
 </div>
 ## 📌 Sobre mim
 
