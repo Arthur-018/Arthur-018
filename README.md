@@ -14,36 +14,15 @@
 <br>
 
 <div align="center">
+  <a href="https://github.com/Arthur-018">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arthur-018&show_icons=true&theme=shadow_red&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-018&layout=compact&langs_count=16&theme=shadow_red" alt="Top Languages" />
+  
+  <br><br>
 
-  <div style="display: flex; justify-content: center; align-items: center; gap: 36px;">
-    <a href="https://github.com/Arthur-018">
-      <img
-        height="180em"
-        src="https://github-readme-stats.vercel.app/api?username=Arthur-018&show_icons=true&theme=shadow_red&include_all_commits=true&count_private=true"
-        alt="GitHub Stats"
-      />
-    </a>
-    <img
-      height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-018&layout=compact&langs_count=16&theme=shadow_red"
-      alt="Top Languages"
-      />
-  </div>
-
-  <div style="height: 16px;"></div>
-
-  <div style="display: flex; justify-content: center; align-items: center;">
-    <img
-      src="https://streak-stats.demolab.com?user=Arthur-018&locale=en&mode=daily&theme=shadow_red&hide_border=false&border_radius=5"
-      height="150"
-      alt="GitHub Streak"
-    />
-  </div>
-
+  <img src="https://streak-stats.demolab.com?user=Arthur-018&locale=en&mode=daily&theme=shadow_red&hide_border=false&border_radius=5" height="150" alt="GitHub Streak" />
 </div>
-
-<br>
-
 ## 📌 Sobre mim
 
 <br>
