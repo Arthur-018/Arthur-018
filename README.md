@@ -1,7 +1,6 @@
 ## Olá! Eu sou o Arthur 👋
 
 
-
 <ul style="list-style: none; padding-left: 0;">
   <li>🖥️ <strong>Desenvolvedor Mobile e Backend</strong> em treinamento no <strong>Grupo Zaffari</strong></li>
   <li>🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> – Unisinos</li>
