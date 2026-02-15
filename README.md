@@ -49,6 +49,7 @@ aliando formação acadêmica à prática constante em projetos.
 
 
 
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/Arthur-018/Arthur-018/main/assets/imagem-estudos.gif" width="500" alt="Estudando" />
   
