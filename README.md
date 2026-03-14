@@ -26,7 +26,6 @@
 
 ## 📌 Sobre mim
 
-
 <p align="justify">
 Desenvolvedor <strong>Mobile e Backend</strong> em início de carreira, com foco em prática, evolução contínua e construção de soluções bem estruturadas.
 Atuo no desenvolvimento de aplicações <strong>mobile e web</strong>, utilizando <strong>JavaScript</strong>, com conhecimento em <strong>React Native, React e Node.js</strong>,
