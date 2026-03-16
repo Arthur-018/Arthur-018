@@ -34,7 +34,7 @@ desenvolvimento de software. Também possuo conhecimentos em <strong>Java e Spri
 arquitetura e integração de sistemas.
 <br><br>
 Atualmente atuo como desenvolvedor em treinamento no <strong>Grupo Zaffari</strong> e curso
-<strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>Universidade do Vale do Rio dos Sinos (Unisinos)</strong>,
+<strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>UNIASSELVI (Unisinos)</strong>,
 aliando formação acadêmica à prática constante em projetos.
 </p>
 
