@@ -21,7 +21,6 @@
 </div>
 
 ---
-
 ## 📌 Sobre mim
 
 <p align="justify">
