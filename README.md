@@ -6,7 +6,6 @@
   <li>🚀 Tecnologias em prática: <strong>JavaScript, React Native, React, Node.js</strong></li>
   <li>🔧 Versionamento e colaboração com <strong>Git & GitHub</strong></li>
 </ul>
-
 <div align="center">
   <a href="https://github.com/Arthur-018">
     <img src="https://github-readme-stats.vercel.app/api?username=Arthur-018&show_icons=true&theme=shadow_red&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
