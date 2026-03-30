@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Arthur 👋
 <ul style="list-style: none; padding-left: 0;">
   <li>🖥️ <strong>Desenvolvedor Mobile e Backend</strong> em treinamento no <strong>Grupo Zaffari</strong></li>
-  <li>🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> – Unisinos</li>
+  <li>🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> – Uniaselvi</li>
   <li>📱💻 Atuação em <strong>Mobile, Web e Backend</strong>, com foco no ecossistema JavaScript</li>
   <li>🚀 Tecnologias em prática: <strong>JavaScript, React Native, React, Node.js</strong></li>
   <li>🔧 Versionamento e colaboração com <strong>Git & GitHub</strong></li>
