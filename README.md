@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Arthur 👋
 <ul style="list-style: none; padding-left: 0;">
-  <li>🖥️ <strong>Desenvolvedor de Software Jr. | QA Jr.</strong> — Estagiário de Desenvolvimento no <strong>Grupo Zaffari</strong>, atuando no time de <strong>aplicações de IA</strong></li>
+  <li>🖥️ <strong>Desenvolvedor de Software Jr. | Mobile Jr.</strong> — Estagiário de Desenvolvimento no <strong>Grupo Zaffari</strong>, atuando no time de <strong>aplicações de IA</strong></li>
   <li>🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> – Uniasselvi</li>
   <li>🤖 Foco atual em <strong>Inteligência Artificial Generativa</strong>, com experiência anterior em <strong>Mobile</strong> e conhecimentos em <strong>Web e Backend</strong></li>
   <li>🚀 Tecnologias em prática: <strong>JavaScript, TypeScript, React, React Native, Vite, Node.js</strong></li>
